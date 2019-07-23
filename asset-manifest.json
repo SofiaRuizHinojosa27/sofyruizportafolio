@@ -1,20 +1,20 @@
 {
   "files": {
-    "main.css": "/sofyruizportafolio/static/css/main.4f64905a.chunk.css",
-    "main.js": "/sofyruizportafolio/static/js/main.a7960f86.chunk.js",
-    "main.js.map": "/sofyruizportafolio/static/js/main.a7960f86.chunk.js.map",
-    "runtime~main.js": "/sofyruizportafolio/static/js/runtime~main.d1bc2c07.js",
-    "runtime~main.js.map": "/sofyruizportafolio/static/js/runtime~main.d1bc2c07.js.map",
-    "static/js/2.ca1eec09.chunk.js": "/sofyruizportafolio/static/js/2.ca1eec09.chunk.js",
-    "static/js/2.ca1eec09.chunk.js.map": "/sofyruizportafolio/static/js/2.ca1eec09.chunk.js.map",
-    "index.html": "/sofyruizportafolio/index.html",
-    "precache-manifest.83b25b47c974677d90fcb8e9b2a3c155.js": "/sofyruizportafolio/precache-manifest.83b25b47c974677d90fcb8e9b2a3c155.js",
-    "service-worker.js": "/sofyruizportafolio/service-worker.js",
-    "static/css/main.4f64905a.chunk.css.map": "/sofyruizportafolio/static/css/main.4f64905a.chunk.css.map",
-    "static/media/Sofi3.jpg": "/sofyruizportafolio/static/media/Sofi3.7d37bfe4.jpg",
-    "static/media/burguerQueen.png": "/sofyruizportafolio/static/media/burguerQueen.a79d944f.png",
-    "static/media/inBikeMe.png": "/sofyruizportafolio/static/media/inBikeMe.cccf6843.png",
-    "static/media/logo2.jpg": "/sofyruizportafolio/static/media/logo2.5c360acc.jpg",
-    "static/media/veggie.jpg": "/sofyruizportafolio/static/media/veggie.8de83701.jpg"
+    "main.css": "/sofyruizportafolio/./static/css/main.4f64905a.chunk.css",
+    "main.js": "/sofyruizportafolio/./static/js/main.23aeb017.chunk.js",
+    "main.js.map": "/sofyruizportafolio/./static/js/main.23aeb017.chunk.js.map",
+    "runtime~main.js": "/sofyruizportafolio/./static/js/runtime~main.f76b0e95.js",
+    "runtime~main.js.map": "/sofyruizportafolio/./static/js/runtime~main.f76b0e95.js.map",
+    "static/js/2.ca1eec09.chunk.js": "/sofyruizportafolio/./static/js/2.ca1eec09.chunk.js",
+    "static/js/2.ca1eec09.chunk.js.map": "/sofyruizportafolio/./static/js/2.ca1eec09.chunk.js.map",
+    "index.html": "/sofyruizportafolio/./index.html",
+    "precache-manifest.d808422511b47ab28cea67921f732aec.js": "/sofyruizportafolio/./precache-manifest.d808422511b47ab28cea67921f732aec.js",
+    "service-worker.js": "/sofyruizportafolio/./service-worker.js",
+    "static/css/main.4f64905a.chunk.css.map": "/sofyruizportafolio/./static/css/main.4f64905a.chunk.css.map",
+    "static/media/Sofi3.jpg": "/sofyruizportafolio/./static/media/Sofi3.7d37bfe4.jpg",
+    "static/media/burguerQueen.png": "/sofyruizportafolio/./static/media/burguerQueen.a79d944f.png",
+    "static/media/inBikeMe.png": "/sofyruizportafolio/./static/media/inBikeMe.cccf6843.png",
+    "static/media/logo2.jpg": "/sofyruizportafolio/./static/media/logo2.5c360acc.jpg",
+    "static/media/veggie.jpg": "/sofyruizportafolio/./static/media/veggie.8de83701.jpg"
   }
 }
