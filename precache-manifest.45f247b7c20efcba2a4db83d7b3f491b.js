@@ -1,19 +1,19 @@
 self.__precacheManifest = (self.__precacheManifest || []).concat([
   {
-    "revision": "b9ba1be36106e17fd52c2cc830146d41",
+    "revision": "732fb627dc48332577f2eaa743a52f19",
     "url": "/sofyruizportafolio/./index.html"
   },
   {
-    "revision": "7dab1e44e94f6796e965",
-    "url": "/sofyruizportafolio/./static/css/main.4f64905a.chunk.css"
+    "revision": "08a64ba003764a1aa2ba",
+    "url": "/sofyruizportafolio/./static/css/main.4e4539ea.chunk.css"
   },
   {
-    "revision": "4014680ec9c328d489c0",
-    "url": "/sofyruizportafolio/./static/js/2.ca1eec09.chunk.js"
+    "revision": "26995756fff1442f69c2",
+    "url": "/sofyruizportafolio/./static/js/2.e3ff2b8d.chunk.js"
   },
   {
-    "revision": "7dab1e44e94f6796e965",
-    "url": "/sofyruizportafolio/./static/js/main.23aeb017.chunk.js"
+    "revision": "08a64ba003764a1aa2ba",
+    "url": "/sofyruizportafolio/./static/js/main.a20fe39c.chunk.js"
   },
   {
     "revision": "96d7cdf73f67fd623b86",
