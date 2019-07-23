@@ -5,7 +5,7 @@ import NavBar from "./NavBar";
 import About from "./About";
 import Skills from "./Skills";
 import Proyects from "./Proyects";
-// import Contact from "./Contact";
+import Contact from "./Contact";
 
 function App() {
   return (
@@ -18,7 +18,7 @@ function App() {
       <About />
       <Skills />
       <Proyects />
-      {/* <Contact /> */}
+      <Contact />
     </div>
   );
 }
