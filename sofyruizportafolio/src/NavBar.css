@@ -16,29 +16,19 @@
     position: fixed;
     z-index: 10;
   }
-  
-  nav {
-    float: left; 
-    background: gray;
-  }
-  nav ul {
-    color:whitesmoke;
-    list-style: none;
-    overflow: hidden; 
-  }
-  nav ul li {
-    float: left;
+
+  .navbar-light .navbar-nav .nav-link {
+    color:white;
+    font-size: 1.5rem;
     font-family: "Poppins", sans-serif;
-    font-size: 2rem;
   }
-  nav ul li a { 
-    padding: 20px;
-    color: whitesmoke;
-    text-decoration: none;
-  }
-  nav ul li:hover {
+
+  .navbar-light .navbar-nav .nav-link:hover {
     background: turquoise;
     border-radius: 2rem;
   }
+  
+
+  
 
   

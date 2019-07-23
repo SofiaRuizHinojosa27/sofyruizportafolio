@@ -2,7 +2,7 @@
   "name": "sofyruizportafolio",
   "version": "0.1.0",
   "private": true,
-  "homepage": "https://sofiaruizhinojosa27.github.io/sofyruizportafolio/",
+  "homepage": "https://sofiaruizhinojosa27.github.io/sofyruizportafolio/.",
   "dependencies": {
     "gh-pages": "^2.0.1",
     "react": "^16.8.6",

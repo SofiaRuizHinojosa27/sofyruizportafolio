@@ -7,7 +7,7 @@
   width: 100%;
   height: 100%;
   justify-content: center;
-  margin-top: 2rem;
+  margin-top: 3rem;
 }
 
 .App-header {
@@ -88,6 +88,7 @@ i {
   border-radius: 2rem;
   margin-top: 1rem;
 }
+
 
 @media (min-width: 576px) {
   .profile {
