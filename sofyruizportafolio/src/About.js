@@ -7,7 +7,7 @@ class About extends Component {
     return (
       <div className="About" id="About">
           <div class="card">
-          <img class="card-img-top-profile" src={Profile} alt="profile" />
+          <img class="card-img-top-profile" src={Profile} fluid alt="profile" />
             <div class="card-body">
               <h1 class="card-title">Acerca de mi</h1>
               <h3 class="card-text">

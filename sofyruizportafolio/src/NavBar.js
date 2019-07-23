@@ -2,6 +2,7 @@ import React, {Component} from "react";
 import {Navbar, Nav} from "react-bootstrap";
 import Logo from "./logo.jpg";
 import "./NavBar.css";
+import {Link} from "react-scroll";
 
 class NavBar extends Component {
   render() {
@@ -11,9 +12,9 @@ class NavBar extends Component {
         <Navbar.Toggle aria-controls="responsive-navbar-nav" />
         <Navbar.Collapse>
           <Nav>
-            <Nav.Link  href="#About">Acerca de mí</Nav.Link>
-            <Nav.Link  href="#Proyects">Mis proyectos</Nav.Link>
-            <Nav.Link  href="#Contact">Contactame</Nav.Link>
+            <Link to="About" smooth={true} duration={3000} offset={-70}>Acerca de mí <i class="fas fa-arrow-down"></i> </Link>
+            <Link to="Proyects" smooth={true} duration={3000} offset={-70}>Mis proyectos <i class="fas fa-arrow-down"></i> </Link>
+            <Link to="Contact" smooth={true} duration={3000}>Contactamé <i class="fas fa-arrow-down"></i> </Link>
           </Nav>
         </Navbar.Collapse>
       </Navbar>

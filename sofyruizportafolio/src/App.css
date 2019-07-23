@@ -90,37 +90,3 @@ i {
 }
 
 
-@media (min-width: 576px) {
-  .profile {
-    display: block;
-  }
-
-  .profilePhone {
-    display: none;
-    border-radius: 1rem;
-    margin-left: 1rem;
-    padding: 1rem;
-  }
-
-  #About {
-    align-self: auto;
-  }
-
-  .Proyects {
-    align-self: auto;
-  }
-}
-
-@media (min-width: 768px) {
-  .profile {
-    display: block;
-  }
-
-  .profilePhone {
-    display: none;
-    border-radius: 1rem;
-    margin-left: 1rem;
-    align-content: center;
-    padding: 1rem;
-  }
-}
