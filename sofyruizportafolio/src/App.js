@@ -3,7 +3,7 @@ import logo2 from "./logo2.jpg";
 import "./App.css";
 import NavBar from "./NavBar";
 import About from "./About";
-// import Skills from "./Skills";
+import Skills from "./Skills";
 // import Proyects from "./Proyects";
 // import Contact from "./Contact";
 
@@ -16,8 +16,8 @@ function App() {
 
       <img src={logo2} className="App-logo" alt="logo" />
       <About />
-      {/* <Skills />
-      <Proyects />
+      <Skills />
+      {/* <Proyects />
       <Contact /> */}
     </div>
   );
