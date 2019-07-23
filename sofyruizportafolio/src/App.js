@@ -4,7 +4,7 @@ import "./App.css";
 import NavBar from "./NavBar";
 import About from "./About";
 import Skills from "./Skills";
-// import Proyects from "./Proyects";
+import Proyects from "./Proyects";
 // import Contact from "./Contact";
 
 function App() {
@@ -17,8 +17,8 @@ function App() {
       <img src={logo2} className="App-logo" alt="logo" />
       <About />
       <Skills />
-      {/* <Proyects />
-      <Contact /> */}
+      <Proyects />
+      {/* <Contact /> */}
     </div>
   );
 }
