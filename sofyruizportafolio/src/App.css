@@ -24,11 +24,17 @@ h1 {
   border-radius: 1rem;
 }
 
+h4{
+  text-align: center;
+  margin: 2rem 1rem 2rem 1rem;
+}
+
 h5 {
   background-color: aquamarine;
   color:black;
   font-size: 2rem;
   border-radius: 1rem;
+  margin-top: 2rem;
 }
 
 i {
@@ -74,14 +80,23 @@ i {
 .card-img-top-profile{
   height: 100%;
   border-radius: 2rem;
-  margin: 2rem 3rem 2rem 3rem;
+  margin: 3rem 5rem 3rem 5rem;
+  padding: 1rem 1rem 1rem 1rem;
+}
 
+.conteiner-about{
+  margin: 2rem 2rem 2rem 2rem;
 }
 
 .aboutText {
   color: #191970;
 }
 
+.imageAbout{
+  width: 85%;
+  border-radius: 2rem;
+  margin-bottom: 1rem;
+}
 .jumbotron {
   background-color: rgb(231, 217, 217);
   height: 100%;

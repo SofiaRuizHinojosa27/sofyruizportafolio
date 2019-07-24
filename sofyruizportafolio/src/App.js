@@ -1,8 +1,10 @@
 import React from "react";
+import Zoom from "react-reveal/Zoom";
+import Flip from "react-reveal/Flip";
 import logo2 from "./logo2.jpg";
 import "./App.css";
 import NavBar from "./NavBar";
-import About from "./About";
+import AboutBoot from "./AboutBoot";
 import Skills from "./Skills";
 import Proyects from "./Proyects";
 import Contact from "./Contact";
@@ -13,12 +15,15 @@ function App() {
       <header className="App-header">
         <NavBar/>
       </header>
-
+      <Zoom>
       <img src={logo2} className="App-logo" alt="logo" />
-      <About />
+      </Zoom>
+      <AboutBoot/>
       <Skills />
       <Proyects />
-      <Contact />
+      <Flip>
+      <Contact/>
+      </Flip>
     </div>
   );
 }

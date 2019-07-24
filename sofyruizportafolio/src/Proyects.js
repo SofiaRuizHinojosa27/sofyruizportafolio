@@ -3,12 +3,14 @@ import "./App.css";
 import inBikeMe from "./inBikeMe.png";
 import BurguerQueen from "./burguerQueen.png";
 import Veggie from "./veggie.jpg";
+import HeadShake from 'react-reveal/HeadShake';
 
 class Proyects extends Component {
   render() {
     return (
       <div className="Proyects" id="Proyects">
         <h1 className="titleProyects">Mis Proyectos</h1>
+        <HeadShake>
         <div class="card-deck">
           <div class="card">
             <img class="card-img-top" src={inBikeMe} alt="Card cap" />
@@ -80,6 +82,7 @@ class Proyects extends Component {
             </div>
           </div>
         </div>
+        </HeadShake>
       </div>
     );
   }
