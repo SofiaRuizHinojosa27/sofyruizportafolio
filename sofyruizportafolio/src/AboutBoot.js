@@ -6,7 +6,7 @@ import Zoom from "react-reveal/Zoom";
 class AboutBoot extends Component {
   render() {
     return (
-      <div className="conteiner-about" id="AboutBooot">
+      <div className="conteiner-about" id="AboutBoot">
         <div className="row">
           <div className="col-md-6">
             <div className="about-content-left">

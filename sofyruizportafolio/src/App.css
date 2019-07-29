@@ -101,7 +101,12 @@ i {
   background-color: rgb(231, 217, 217);
   height: 100%;
   border-radius: 2rem;
-  margin-top: 1rem;
+  margin: 1rem 1rem 1rem 1rem;
+  justify-content: space-around;
+}
+
+.col{
+  margin-bottom: 1rem;
 }
 
 
